@@ -1,0 +1,50 @@
+---
+name: Globe Telecom
+slug: globe-telecom
+spec:
+  description: >
+    Telecommunications and digital services provider with enterprise
+    connectivity offerings.
+  headquarters: The Globe Tower, Bonifacio Global City, Taguig, Metro Manila
+  founded: 1928
+  specialties:
+    - Mobile network services
+    - Enterprise connectivity
+    - Digital payments (GCash)
+    - Broadband & fiber internet
+  location:
+    country: Philippines
+    region: National Capital Region
+    province: Metro Manila
+    municipality: Taguig
+    address: Bonifacio Global City
+    coordinates:
+      latitude: 14.5547
+      longitude: 121.0244
+  contacts:
+    website: https://www.globe.com.ph
+    email: corporate.communications@globe.com.ph
+    phone: "+63-2-7730-1000"
+  social:
+    linkedin: https://www.linkedin.com/company/globetelecom
+    facebook: https://www.facebook.com/globeph
+    twitter: https://twitter.com/globeph
+    instagram: https://www.instagram.com/globeph
+  industry:
+    sector: Telecommunications
+    type: telecommunications
+  employees:
+    size: 8000
+  tags:
+    - telecom
+    - connectivity
+    - enterprise
+  relationships:
+    parent: ayala-corporation
+    children:
+      - globe-business
+      - gcash
+    acquisitions:
+      - bayan-telecommunications
+  comments: >
+    Sample/placeholder record demonstrating the full schema.
