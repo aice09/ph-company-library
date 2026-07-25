@@ -1,0 +1,42 @@
+---
+name: Imus Retail Group
+slug: imus-retail-group
+spec:
+  description: >
+    Regional retail chain operating grocery and convenience stores across
+    Cavite province.
+  headquarters: Aguinaldo Hwy, Imus, Cavite
+  founded: 2005
+  specialties:
+    - Grocery retail
+    - Convenience stores
+    - Wholesale distribution
+  location:
+    country: Philippines
+    region: CALABARZON
+    province: Cavite
+    municipality: Imus
+    address: "Aguinaldo Hwy, Imus, Cavite"
+    coordinates:
+      latitude: 14.4297
+      longitude: 120.9367
+  contacts:
+    website: https://imus-retail.example.com
+    email: contact@imus-retail.example.com
+    phone: "+63-46-123-4567"
+  social:
+    facebook: https://www.facebook.com/imusretailgroup
+  industry:
+    sector: Retail & Trade
+    type: retail
+  employees:
+    size: 350
+  tags:
+    - consumer-goods
+    - wholesale
+  relationships:
+    parent: null
+    children: []
+    acquisitions: []
+  comments: >
+    Sample/placeholder record included to demonstrate the schema.
