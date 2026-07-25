@@ -1,0 +1,18 @@
+{
+  "name": "businessfinder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Vercel-ready, community-contributed business directory inspired by the NetBox Device Type Library pattern.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "validate": "node scripts/validate.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
