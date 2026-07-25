@@ -1,0 +1,78 @@
+---
+name: Microchip Technology Inc.
+slug: microchip-technology
+
+spec:
+  description: >
+    Microchip Technology Inc. is a leading semiconductor company that designs,
+    manufactures, and sells embedded control solutions including
+    microcontrollers, analog devices, FPGAs, memory products, and connectivity
+    solutions for automotive, industrial, aerospace, consumer, communications,
+    and IoT markets.
+
+  headquarters: Chandler, Arizona, United States
+
+  founded: 1989
+
+  specialties:
+    - Microcontrollers
+    - Analog Semiconductors
+    - FPGA
+    - Embedded Systems
+    - Memory Products
+    - Automotive Electronics
+    - Industrial Automation
+    - Internet of Things (IoT)
+    - Aerospace and Defense
+    - Security Solutions
+
+  location:
+    country: Philippines
+    region: NCR
+    province: Metro Manila
+    municipality: Muntinlupa
+    address: MTI Advanced Test Development Corporation, Alabang, Muntinlupa City
+    coordinates:
+      latitude: null
+      longitude: null
+
+  contacts:
+    website: https://www.microchip.com
+    email: null
+    phone: null
+
+  social:
+    linkedin: https://www.linkedin.com/company/microchip-technology/posts/?feedView=all
+
+  industry:
+    sector: Semiconductor
+    type: semiconductor
+
+  employees:
+    size: 20000+
+
+  tags:
+    - semiconductor
+    - embedded
+    - microcontrollers
+    - analog
+    - fpga
+    - manufacturing
+    - philippines
+
+  relationships:
+    parent: null
+    children:
+      - MTI Advanced Test Development Corporation
+      - Microchip Technology Operations (Philippines) Corporation
+    acquisitions:
+      - Atmel
+      - Microsemi
+      - SST
+      - Micrel
+
+  comments: >
+    Philippine operations include the corporate engineering office known as
+    MTI Advanced Test Development Corporation located in Alabang,
+    Muntinlupa City, and the manufacturing facility Microchip Technology
+    Operations (Philippines) Corporation located in Calamba, Laguna.
