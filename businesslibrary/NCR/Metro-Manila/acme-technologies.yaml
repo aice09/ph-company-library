@@ -1,0 +1,43 @@
+---
+name: Acme Technologies Inc.
+slug: acme-technologies
+spec:
+  description: >
+    A software development business specializing in enterprise cloud
+    solutions and IT consulting.
+  headquarters: 123 Sample St, Ermita, Manila
+  founded: 2015
+  specialties:
+    - Enterprise cloud solutions
+    - IT consulting
+    - Custom software development
+  location:
+    country: Philippines
+    region: NCR
+    province: Metro-Manila
+    municipality: Manila
+    address: "123 Sample St, Ermita, Manila"
+    coordinates:
+      latitude: 14.5832
+      longitude: 120.9822
+  contacts:
+    website: https://acme-technologies.example.com
+    email: hello@acme-technologies.example.com
+    phone: "+63-2-1234-5678"
+  social:
+    linkedin: https://www.linkedin.com/company/acme-technologies-example
+  industry:
+    sector: Technology
+    type: technology
+  employees:
+    size: 150
+  tags:
+    - software
+    - it-services
+    - saas
+  relationships:
+    parent: null
+    children: []
+    acquisitions: []
+  comments: >
+    Sample/placeholder record included to demonstrate the schema.
