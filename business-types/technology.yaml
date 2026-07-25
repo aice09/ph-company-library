@@ -1,15 +1,14 @@
 ---
-# Business type / industry category definition.
-# These files define the controlled vocabulary of `type` values that
-# business records (in /businesslibrary) are allowed to reference.
 slug: technology
 name: Technology
 description: >
-  Software, hardware, IT services, telecommunications, and other
-  technology-driven businesses.
+  Companies developing software, hardware, cloud platforms, IT services,
+  cybersecurity, artificial intelligence, and digital solutions.
+
 suggested_tags:
   - software
-  - hardware
-  - it-services
-  - telecom
+  - cloud
+  - ai
+  - cybersecurity
   - saas
+  - hardware
