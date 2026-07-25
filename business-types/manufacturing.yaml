@@ -2,10 +2,11 @@
 slug: manufacturing
 name: Manufacturing
 description: >
-  Businesses engaged in the production of goods, including electronics,
-  automotive, food processing, and industrial equipment.
+  Companies involved in the production, assembly, and processing of
+  industrial and consumer goods.
+
 suggested_tags:
-  - electronics
-  - automotive
+  - factory
+  - production
   - industrial
-  - food-processing
+  - assembly
